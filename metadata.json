@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Manajemen Pembimbingan Siswa v1.1",
+  "description": "Aplikasi web modern untuk pencatatan dan manajemen pembimbingan siswa oleh Guru Wali menggunakan Supabase.",
+  "requestFramePermissions": []
+}
